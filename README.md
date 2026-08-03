@@ -63,17 +63,24 @@ Impact of coding skills and internships on placements.
 Certification trends among placed students.
 📸 Dashboard Preview
 
-Page 1 – Student Placement Analytics
 
-(Add Screenshot)
+# 📸 Dashboard Preview
 
-Page 2 – Salary Analysis
+## 📄 Page 1 – Student Placement Analytics
 
-(Add Screenshot)
+![Page 1](dashboard-screenshots/page1.png)
 
-Page 3 – Skills & Employability Analysis
+---
 
-(Add Screenshot)
+## 💰 Page 2 – Salary Analysis
+
+![Page 2](dashboard-screenshots/page2.png)
+
+---
+
+## 🎯 Page 3 – Skills & Employability Analysis
+
+![Page 3](dashboard-screenshots/page3.png)
 
 🚀 Features
 Interactive Dashboard
