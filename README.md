@@ -68,7 +68,7 @@ Certification trends among placed students.
 
 ### 📄 Page 1 – Student Placement Analytics
 
-![Page 1](https://raw.githubusercontent.com/maha2403/Student-Placement-Analytics-PowerBI/main/page1.png)
+![Page 1](https://raw.githubusercontent.com/maha2403/Student-Placement-Analytics-PowerBI/main/page 1.png)
 
 ### 💰 Page 2 – Salary Analysis
 
