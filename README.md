@@ -80,7 +80,7 @@ Certification trends among placed students.
 
 ## 🎯 Page 3 – Skills & Employability Analysis
 
-![Page 3](Student-Placement-Analytics-PowerBI-screenshots/page3.png)
+![Page 3](Student-Placement-Analytics-PowerBi-screenshots/page3.png)
 
 🚀 Features
 Interactive Dashboard
