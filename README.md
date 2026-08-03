@@ -80,7 +80,7 @@ Certification trends among placed students.
 
 ## 🎯 Page 3 – Skills & Employability Analysis
 
-![Page 3](Student-Placement-Analytics-PowerBI/page3.png)
+![Page 3](Student-Placement-Analytics-PowerBI-Pictures/page3.png)
 
 🚀 Features
 Interactive Dashboard
@@ -89,6 +89,7 @@ KPI Cards
 Scatter Charts
 Bar Charts
 Donut Charts
+
 DAX Measures
 Professional Dashboard Design
 📚 Skills Demonstrated
